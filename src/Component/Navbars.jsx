@@ -5,7 +5,7 @@ const Navbars = ({setCategory}) => {
   return (
     <nav className="navbar navbar-expand-md bg-body-tertiary p-1 custom-navbar fs-1"  data-bs-theme="dark">
       <div className="container-fluid">
-        <a className="navbar-brand" href="#"><span className='badge bg-light text-dark fs-4'>NewsMag</span></a>
+        <a className="navbar-brand" href="#"><span className='badge bg-light text-dark fs-4'>NewsZone</span></a>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>
         </button>
