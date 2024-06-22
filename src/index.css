@@ -1,0 +1,26 @@
+.custom-navbar {
+    font-size: 0.875rem; /* Adjust font size */
+    padding: 0.5rem 1rem; /* Adjust padding for vertical space */
+  }
+  
+  .custom-navbar .navbar-brand {
+    font-size: 1rem; /* Adjust brand font size */
+  }
+  
+  .custom-navbar .navbar-nav .nav-link {
+    font-size: 0.875rem; /* Adjust link font size */
+    padding: 0.25rem 0.5rem; /* Adjust link padding for vertical space */
+  }
+  
+  .custom-navbar .navbar-toggler {
+    font-size: 0.875rem; /* Adjust toggler icon size if needed */
+  }
+  
+  .custom-navbar .dropdown-menu {
+    font-size: 0.875rem; /* Adjust dropdown menu font size */
+  }
+  
+  .custom-navbar .dropdown-item {
+    font-size: 0.875rem; /* Adjust dropdown item font size */
+  }
+  
